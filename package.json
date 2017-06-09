@@ -1,0 +1,11 @@
+{
+  "name": "steam-profile",
+  "version": "0.0.1",
+  "description": "Scrape a steam profile into a json result",
+  "main": "server.js",
+  "author": "Chris Jackson",
+  "dependencies": {
+    "request": "latest",
+    "cheerio": "latest"
+  }
+}
